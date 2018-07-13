@@ -1,3 +1,4 @@
+var no
 var expect = require('chai').expect;
 var sinon = require('sinon');
 var bot;
